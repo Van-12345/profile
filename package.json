@@ -1,0 +1,22 @@
+{
+    "name": "profile",
+    "version": "1.0.0",
+    "homepage": "https://Van-12345.github.io/profile",
+    "main": "index.js",
+    "scripts": {
+    "start": "node index.js",
+    "predeploy": "",
+    "deploy": "gh-pages -d ."
+},
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Van-12345/profile.git"
+    },
+    "keywords": [],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+        "gh-pages": "^6.3.0"
+    }
+}
